@@ -1,3 +1,5 @@
 There are versions of Python for many platforms. 
 The book uses the Idle code editor which is included with the Python distribution. 
 It doesn't matter...................
+
+There are versions of Python for many platforms.
